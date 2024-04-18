@@ -1,0 +1,17 @@
+D:\UAQ\2022-1\COMPUTACION AVANZADA\repos\MatCalc\MatCalc\bin\Debug\net6.0-windows\MatCalc.exe
+D:\UAQ\2022-1\COMPUTACION AVANZADA\repos\MatCalc\MatCalc\bin\Debug\net6.0-windows\MatCalc.deps.json
+D:\UAQ\2022-1\COMPUTACION AVANZADA\repos\MatCalc\MatCalc\bin\Debug\net6.0-windows\MatCalc.runtimeconfig.json
+D:\UAQ\2022-1\COMPUTACION AVANZADA\repos\MatCalc\MatCalc\bin\Debug\net6.0-windows\MatCalc.dll
+D:\UAQ\2022-1\COMPUTACION AVANZADA\repos\MatCalc\MatCalc\bin\Debug\net6.0-windows\ref\MatCalc.dll
+D:\UAQ\2022-1\COMPUTACION AVANZADA\repos\MatCalc\MatCalc\bin\Debug\net6.0-windows\MatCalc.pdb
+D:\UAQ\2022-1\COMPUTACION AVANZADA\repos\MatCalc\MatCalc\obj\Debug\net6.0-windows\MatCalc.csproj.AssemblyReference.cache
+D:\UAQ\2022-1\COMPUTACION AVANZADA\repos\MatCalc\MatCalc\obj\Debug\net6.0-windows\MatCalc.Form1.resources
+D:\UAQ\2022-1\COMPUTACION AVANZADA\repos\MatCalc\MatCalc\obj\Debug\net6.0-windows\MatCalc.csproj.GenerateResource.cache
+D:\UAQ\2022-1\COMPUTACION AVANZADA\repos\MatCalc\MatCalc\obj\Debug\net6.0-windows\MatCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\UAQ\2022-1\COMPUTACION AVANZADA\repos\MatCalc\MatCalc\obj\Debug\net6.0-windows\MatCalc.AssemblyInfoInputs.cache
+D:\UAQ\2022-1\COMPUTACION AVANZADA\repos\MatCalc\MatCalc\obj\Debug\net6.0-windows\MatCalc.AssemblyInfo.cs
+D:\UAQ\2022-1\COMPUTACION AVANZADA\repos\MatCalc\MatCalc\obj\Debug\net6.0-windows\MatCalc.csproj.CoreCompileInputs.cache
+D:\UAQ\2022-1\COMPUTACION AVANZADA\repos\MatCalc\MatCalc\obj\Debug\net6.0-windows\MatCalc.dll
+D:\UAQ\2022-1\COMPUTACION AVANZADA\repos\MatCalc\MatCalc\obj\Debug\net6.0-windows\ref\MatCalc.dll
+D:\UAQ\2022-1\COMPUTACION AVANZADA\repos\MatCalc\MatCalc\obj\Debug\net6.0-windows\MatCalc.pdb
+D:\UAQ\2022-1\COMPUTACION AVANZADA\repos\MatCalc\MatCalc\obj\Debug\net6.0-windows\MatCalc.genruntimeconfig.cache
