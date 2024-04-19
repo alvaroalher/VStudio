@@ -1,0 +1,4 @@
+E:\UAQ\repos\sintonizador\sintonizador\Debug\sintonizador.vcxproj.AssemblyReference.cache
+E:\UAQ\repos\sintonizador\sintonizador\Debug\sintonizador.vcxproj.SuggestedBindingRedirects.cache
+E:\UAQ\repos\sintonizador\sintonizador\Debug\sintonizador.MyForm.resources
+E:\UAQ\repos\sintonizador\sintonizador\Debug\sintonizador.vcxproj.GenerateResource.cache

@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+c:\users\usuario\source\repos\sintonizador\sintonizador\MyForm.h(1496): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(207): note: vea la declaración de 'fopen'
+MyForm.cpp(5): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+LINK : fatal error LNK1561: se debe definir el punto de entrada
