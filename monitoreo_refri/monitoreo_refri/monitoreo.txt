@@ -1,0 +1,1165 @@
+MONITOREO DE TEMPERATURA
+UAQ Facultad de Ingenieria
+Sensor 1: 73.21 °C 
+Sensor 2: 13.76 °C 
+Sensor 3: 81.72 °C 
+Sensor 4: 50.92 °C 
+
+Sensor 1: 61.09 °C 
+Sensor 2: 13.67 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 50.92 °C 
+
+Sensor 1: 61.26 °C 
+Sensor 2: 13.67 °C 
+Sensor 3: 81.08 °C 
+Sensor 4: 50.78 °C 
+
+Sensor 1: 62.35 °C 
+Sensor 2: 13.58 °C 
+Sensor 3: 80.45 °C 
+Sensor 4: 50.64 °C 
+
+Sensor 1: 61.09 °C 
+Sensor 2: 13.58 °C 
+Sensor 3: 80.14 °C 
+Sensor 4: 50.78 °C 
+
+Sensor 1: 60.91 °C 
+Sensor 2: 13.67 °C 
+Sensor 3: 81.40 °C 
+Sensor 4: 50.64 °C 
+
+Sensor 1: 61.62 °C 
+Sensor 2: 13.49 °C 
+Sensor 3: 81.40 °C 
+Sensor 4: 50.64 °C 
+
+Sensor 1: 61.80 °C 
+Sensor 2: 13.49 °C 
+Sensor 3: 81.08 °C 
+Sensor 4: 50.64 °C 
+
+Sensor 1: 61.44 °C 
+Sensor 2: 13.58 °C 
+Sensor 3: 81.72 °C 
+Sensor 4: 50.64 °C 
+
+Sensor 1: 61.80 °C 
+Sensor 2: 13.84 °C 
+Sensor 3: 81.08 °C 
+Sensor 4: 50.64 °C 
+
+Sensor 1: 61.80 °C 
+Sensor 2: 14.02 °C 
+Sensor 3: 81.72 °C 
+Sensor 4: 50.64 °C 
+
+Sensor 1: 61.62 °C 
+Sensor 2: 14.02 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 50.64 °C 
+
+Sensor 1: 62.16 °C 
+Sensor 2: 14.02 °C 
+Sensor 3: 81.08 °C 
+Sensor 4: 50.64 °C 
+
+Sensor 1: 61.80 °C 
+Sensor 2: 14.02 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 50.64 °C 
+
+Sensor 1: 62.16 °C 
+Sensor 2: 14.02 °C 
+Sensor 3: 81.40 °C 
+Sensor 4: 50.78 °C 
+
+Sensor 1: 62.16 °C 
+Sensor 2: 14.02 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 50.78 °C 
+
+Sensor 1: 63.84 °C 
+Sensor 2: 14.02 °C 
+Sensor 3: 81.40 °C 
+Sensor 4: 50.78 °C 
+
+Sensor 1: 60.91 °C 
+Sensor 2: 14.02 °C 
+Sensor 3: 81.08 °C 
+Sensor 4: 50.92 °C 
+
+Sensor 1: 61.98 °C 
+Sensor 2: 13.93 °C 
+Sensor 3: 81.08 °C 
+Sensor 4: 50.78 °C 
+
+Sensor 1: 62.53 °C 
+Sensor 2: 13.93 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 50.92 °C 
+
+Sensor 1: 63.09 °C 
+Sensor 2: 13.93 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 50.92 °C 
+
+Sensor 1: 62.71 °C 
+Sensor 2: 13.93 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 50.78 °C 
+
+Sensor 1: 62.71 °C 
+Sensor 2: 13.84 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 50.64 °C 
+
+Sensor 1: 62.35 °C 
+Sensor 2: 13.93 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 50.78 °C 
+
+Sensor 1: 62.90 °C 
+Sensor 2: 13.84 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 50.64 °C 
+
+Sensor 1: 62.53 °C 
+Sensor 2: 13.76 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 50.51 °C 
+
+Sensor 1: 62.53 °C 
+Sensor 2: 13.76 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 50.38 °C 
+
+Sensor 1: 62.35 °C 
+Sensor 2: 13.76 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 50.38 °C 
+
+Sensor 1: 63.09 °C 
+Sensor 2: 13.67 °C 
+Sensor 3: 81.72 °C 
+Sensor 4: 50.51 °C 
+
+Sensor 1: 63.46 °C 
+Sensor 2: 13.67 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 50.38 °C 
+
+Sensor 1: 62.16 °C 
+Sensor 2: 13.67 °C 
+Sensor 3: 85.13 °C 
+Sensor 4: 50.51 °C 
+
+Sensor 1: 61.62 °C 
+Sensor 2: 13.67 °C 
+Sensor 3: 79.53 °C 
+Sensor 4: 50.51 °C 
+
+Sensor 1: 62.35 °C 
+Sensor 2: 13.58 °C 
+Sensor 3: 80.45 °C 
+Sensor 4: 50.51 °C 
+
+Sensor 1: 62.53 °C 
+Sensor 2: 13.58 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 50.51 °C 
+
+Sensor 1: 61.98 °C 
+Sensor 2: 13.49 °C 
+Sensor 3: 81.72 °C 
+Sensor 4: 50.51 °C 
+
+Sensor 1: 62.71 °C 
+Sensor 2: 13.49 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 50.38 °C 
+
+Sensor 1: 62.35 °C 
+Sensor 2: 13.58 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 50.38 °C 
+
+Sensor 1: 62.53 °C 
+Sensor 2: 13.49 °C 
+Sensor 3: 81.72 °C 
+Sensor 4: 50.38 °C 
+
+Sensor 1: 62.35 °C 
+Sensor 2: 13.49 °C 
+Sensor 3: 81.72 °C 
+Sensor 4: 50.38 °C 
+
+Sensor 1: 62.53 °C 
+Sensor 2: 13.49 °C 
+Sensor 3: 81.40 °C 
+Sensor 4: 50.38 °C 
+
+Sensor 1: 62.53 °C 
+Sensor 2: 13.41 °C 
+Sensor 3: 81.40 °C 
+Sensor 4: 50.38 °C 
+
+Sensor 1: 62.53 °C 
+Sensor 2: 13.32 °C 
+Sensor 3: 83.38 °C 
+Sensor 4: 50.38 °C 
+
+Sensor 1: 62.71 °C 
+Sensor 2: 13.32 °C 
+Sensor 3: 81.40 °C 
+Sensor 4: 50.38 °C 
+
+Sensor 1: 61.62 °C 
+Sensor 2: 13.41 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 50.24 °C 
+
+Sensor 1: 63.27 °C 
+Sensor 2: 13.23 °C 
+Sensor 3: 81.08 °C 
+Sensor 4: 50.24 °C 
+
+Sensor 1: 62.53 °C 
+Sensor 2: 13.23 °C 
+Sensor 3: 81.72 °C 
+Sensor 4: 50.24 °C 
+
+Sensor 1: 63.09 °C 
+Sensor 2: 13.14 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 50.51 °C 
+
+Sensor 1: 62.71 °C 
+Sensor 2: 13.14 °C 
+Sensor 3: 83.38 °C 
+Sensor 4: 50.24 °C 
+
+Sensor 1: 62.71 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 50.24 °C 
+
+Sensor 1: 62.71 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 50.24 °C 
+
+Sensor 1: 62.90 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 50.24 °C 
+
+Sensor 1: 62.53 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 50.24 °C 
+
+Sensor 1: 63.84 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 50.38 °C 
+
+Sensor 1: 62.53 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 79.23 °C 
+Sensor 4: 50.11 °C 
+
+Sensor 1: 62.35 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 50.11 °C 
+
+Sensor 1: 65.81 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 81.72 °C 
+Sensor 4: 50.24 °C 
+
+Sensor 1: 65.01 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 81.40 °C 
+Sensor 4: 50.38 °C 
+
+Sensor 1: 65.20 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 50.24 °C 
+
+Sensor 1: 66.21 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 81.72 °C 
+Sensor 4: 50.11 °C 
+
+Sensor 1: 66.21 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 81.40 °C 
+Sensor 4: 49.98 °C 
+
+Sensor 1: 66.21 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 81.40 °C 
+Sensor 4: 49.84 °C 
+
+Sensor 1: 66.21 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 81.72 °C 
+Sensor 4: 49.71 °C 
+
+Sensor 1: 66.21 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 81.72 °C 
+Sensor 4: 49.71 °C 
+
+Sensor 1: 66.42 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 81.72 °C 
+Sensor 4: 49.71 °C 
+
+Sensor 1: 66.62 °C 
+Sensor 2: 12.88 °C 
+Sensor 3: 81.40 °C 
+Sensor 4: 49.71 °C 
+
+Sensor 1: 66.01 °C 
+Sensor 2: 12.88 °C 
+Sensor 3: 81.72 °C 
+Sensor 4: 49.71 °C 
+
+Sensor 1: 66.21 °C 
+Sensor 2: 12.88 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 49.71 °C 
+
+Sensor 1: 66.21 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 81.72 °C 
+Sensor 4: 49.71 °C 
+
+Sensor 1: 66.21 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 49.71 °C 
+
+Sensor 1: 66.21 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 81.72 °C 
+Sensor 4: 49.58 °C 
+
+Sensor 1: 66.62 °C 
+Sensor 2: 12.70 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 49.71 °C 
+
+Sensor 1: 66.83 °C 
+Sensor 2: 12.70 °C 
+Sensor 3: 83.38 °C 
+Sensor 4: 49.58 °C 
+
+Sensor 1: 66.01 °C 
+Sensor 2: 12.61 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 49.58 °C 
+
+Sensor 1: 65.20 °C 
+Sensor 2: 12.70 °C 
+Sensor 3: 80.45 °C 
+Sensor 4: 49.58 °C 
+
+Sensor 1: 66.21 °C 
+Sensor 2: 12.70 °C 
+Sensor 3: 85.49 °C 
+Sensor 4: 49.71 °C 
+
+Sensor 1: 66.01 °C 
+Sensor 2: 12.70 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 49.58 °C 
+
+Sensor 1: 65.81 °C 
+Sensor 2: 12.61 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 49.58 °C 
+
+Sensor 1: 66.42 °C 
+Sensor 2: 12.61 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 49.58 °C 
+
+Sensor 1: 66.21 °C 
+Sensor 2: 12.61 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 49.58 °C 
+
+Sensor 1: 66.62 °C 
+Sensor 2: 12.61 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 49.45 °C 
+
+Sensor 1: 66.42 °C 
+Sensor 2: 12.61 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 66.62 °C 
+Sensor 2: 12.70 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 66.42 °C 
+Sensor 2: 12.70 °C 
+Sensor 3: 84.07 °C 
+Sensor 4: 49.19 °C 
+
+Sensor 1: 66.42 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 49.06 °C 
+
+Sensor 1: 66.01 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 49.06 °C 
+
+Sensor 1: 66.21 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 49.06 °C 
+
+Sensor 1: 66.01 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 49.19 °C 
+
+Sensor 1: 66.21 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 81.72 °C 
+Sensor 4: 49.19 °C 
+
+Sensor 1: 66.01 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 49.19 °C 
+
+Sensor 1: 66.21 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 65.81 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 66.62 °C 
+Sensor 2: 12.70 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 65.81 °C 
+Sensor 2: 12.70 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 49.45 °C 
+
+Sensor 1: 65.81 °C 
+Sensor 2: 12.52 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 49.45 °C 
+
+Sensor 1: 65.60 °C 
+Sensor 2: 12.52 °C 
+Sensor 3: 81.72 °C 
+Sensor 4: 49.45 °C 
+
+Sensor 1: 65.20 °C 
+Sensor 2: 12.61 °C 
+Sensor 3: 81.40 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 66.01 °C 
+Sensor 2: 12.61 °C 
+Sensor 3: 81.40 °C 
+Sensor 4: 49.45 °C 
+
+Sensor 1: 65.20 °C 
+Sensor 2: 12.61 °C 
+Sensor 3: 81.08 °C 
+Sensor 4: 49.45 °C 
+
+Sensor 1: 66.01 °C 
+Sensor 2: 12.61 °C 
+Sensor 3: 81.72 °C 
+Sensor 4: 49.45 °C 
+
+Sensor 1: 65.60 °C 
+Sensor 2: 12.61 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 49.45 °C 
+
+Sensor 1: 65.81 °C 
+Sensor 2: 12.61 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 66.01 °C 
+Sensor 2: 12.70 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 65.81 °C 
+Sensor 2: 12.70 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 49.19 °C 
+
+Sensor 1: 65.81 °C 
+Sensor 2: 12.70 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 49.19 °C 
+
+Sensor 1: 65.81 °C 
+Sensor 2: 12.70 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 49.19 °C 
+
+Sensor 1: 65.81 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 65.81 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 65.40 °C 
+Sensor 2: 12.88 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 65.60 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 83.73 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 66.62 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 81.72 °C 
+Sensor 4: 49.45 °C 
+
+Sensor 1: 65.40 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 83.73 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 66.01 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 83.38 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 65.81 °C 
+Sensor 2: 12.88 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 65.40 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 65.20 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 65.40 °C 
+Sensor 2: 12.88 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 65.20 °C 
+Sensor 2: 12.88 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 65.20 °C 
+Sensor 2: 12.88 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 49.45 °C 
+
+Sensor 1: 65.01 °C 
+Sensor 2: 12.88 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 49.45 °C 
+
+Sensor 1: 65.40 °C 
+Sensor 2: 12.88 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 49.45 °C 
+
+Sensor 1: 65.20 °C 
+Sensor 2: 12.88 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 49.45 °C 
+
+Sensor 1: 65.40 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 49.45 °C 
+
+Sensor 1: 65.01 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 65.01 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 64.81 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 84.07 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 64.42 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 65.01 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 84.07 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 63.46 °C 
+Sensor 2: 13.14 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 49.19 °C 
+
+Sensor 1: 64.61 °C 
+Sensor 2: 13.14 °C 
+Sensor 3: 81.72 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 64.23 °C 
+Sensor 2: 13.14 °C 
+Sensor 3: 80.77 °C 
+Sensor 4: 49.19 °C 
+
+Sensor 1: 65.40 °C 
+Sensor 2: 13.14 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 49.19 °C 
+
+Sensor 1: 64.81 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 81.40 °C 
+Sensor 4: 49.19 °C 
+
+Sensor 1: 64.61 °C 
+Sensor 2: 13.14 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 49.19 °C 
+
+Sensor 1: 63.84 °C 
+Sensor 2: 13.14 °C 
+Sensor 3: 84.42 °C 
+Sensor 4: 49.19 °C 
+
+Sensor 1: 64.81 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 49.19 °C 
+
+Sensor 1: 64.61 °C 
+Sensor 2: 13.14 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 49.19 °C 
+
+Sensor 1: 64.81 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 81.72 °C 
+Sensor 4: 49.19 °C 
+
+Sensor 1: 65.01 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 49.06 °C 
+
+Sensor 1: 65.01 °C 
+Sensor 2: 13.14 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 64.81 °C 
+Sensor 2: 13.14 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 64.03 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 84.07 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 65.40 °C 
+Sensor 2: 13.14 °C 
+Sensor 3: 83.73 °C 
+Sensor 4: 49.32 °C 
+
+Sensor 1: 64.03 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 49.19 °C 
+
+Sensor 1: 64.81 °C 
+Sensor 2: 13.23 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 49.19 °C 
+
+Sensor 1: 65.40 °C 
+Sensor 2: 13.14 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 49.19 °C 
+
+Sensor 1: 64.42 °C 
+Sensor 2: 13.23 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 49.19 °C 
+
+Sensor 1: 64.81 °C 
+Sensor 2: 13.23 °C 
+Sensor 3: 81.08 °C 
+Sensor 4: 49.06 °C 
+
+Sensor 1: 63.84 °C 
+Sensor 2: 13.23 °C 
+Sensor 3: 80.45 °C 
+Sensor 4: 48.93 °C 
+
+Sensor 1: 64.61 °C 
+Sensor 2: 13.14 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 49.06 °C 
+
+Sensor 1: 64.61 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 48.93 °C 
+
+Sensor 1: 64.81 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 48.93 °C 
+
+Sensor 1: 65.01 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 48.80 °C 
+
+Sensor 1: 64.61 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 83.38 °C 
+Sensor 4: 48.80 °C 
+
+Sensor 1: 64.81 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 48.93 °C 
+
+Sensor 1: 65.01 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 48.93 °C 
+
+Sensor 1: 64.81 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 48.93 °C 
+
+Sensor 1: 64.81 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 79.53 °C 
+Sensor 4: 48.67 °C 
+
+Sensor 1: 64.03 °C 
+Sensor 2: 12.88 °C 
+Sensor 3: 80.77 °C 
+Sensor 4: 48.67 °C 
+
+Sensor 1: 64.03 °C 
+Sensor 2: 12.88 °C 
+Sensor 3: 81.08 °C 
+Sensor 4: 48.80 °C 
+
+Sensor 1: 64.23 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 48.80 °C 
+
+Sensor 1: 65.01 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 83.38 °C 
+Sensor 4: 48.80 °C 
+
+Sensor 1: 64.81 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 48.93 °C 
+
+Sensor 1: 64.61 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 83.38 °C 
+Sensor 4: 48.80 °C 
+
+Sensor 1: 64.81 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 48.80 °C 
+
+Sensor 1: 64.42 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 48.80 °C 
+
+Sensor 1: 65.40 °C 
+Sensor 2: 12.70 °C 
+Sensor 3: 87.36 °C 
+Sensor 4: 48.80 °C 
+
+Sensor 1: 65.01 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 83.38 °C 
+Sensor 4: 48.93 °C 
+
+Sensor 1: 64.61 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 48.93 °C 
+
+Sensor 1: 64.81 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 83.38 °C 
+Sensor 4: 48.93 °C 
+
+Sensor 1: 64.81 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 48.80 °C 
+
+Sensor 1: 64.42 °C 
+Sensor 2: 12.88 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 48.80 °C 
+
+Sensor 1: 64.61 °C 
+Sensor 2: 12.88 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 48.80 °C 
+
+Sensor 1: 64.42 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 48.80 °C 
+
+Sensor 1: 64.42 °C 
+Sensor 2: 12.79 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 48.93 °C 
+
+Sensor 1: 64.61 °C 
+Sensor 2: 12.88 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 48.93 °C 
+
+Sensor 1: 64.42 °C 
+Sensor 2: 12.88 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 49.06 °C 
+
+Sensor 1: 64.23 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 85.13 °C 
+Sensor 4: 48.93 °C 
+
+Sensor 1: 62.71 °C 
+Sensor 2: 12.88 °C 
+Sensor 3: 84.42 °C 
+Sensor 4: 49.06 °C 
+
+Sensor 1: 64.42 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 48.93 °C 
+
+Sensor 1: 63.65 °C 
+Sensor 2: 12.88 °C 
+Sensor 3: 81.40 °C 
+Sensor 4: 49.06 °C 
+
+Sensor 1: 64.03 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 80.45 °C 
+Sensor 4: 48.93 °C 
+
+Sensor 1: 64.42 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 48.93 °C 
+
+Sensor 1: 62.90 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 84.77 °C 
+Sensor 4: 48.93 °C 
+
+Sensor 1: 63.84 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 81.40 °C 
+Sensor 4: 48.80 °C 
+
+Sensor 1: 63.65 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 81.08 °C 
+Sensor 4: 48.93 °C 
+
+Sensor 1: 64.23 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 81.40 °C 
+Sensor 4: 48.93 °C 
+
+Sensor 1: 64.03 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 83.73 °C 
+Sensor 4: 48.80 °C 
+
+Sensor 1: 64.03 °C 
+Sensor 2: 13.14 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 48.67 °C 
+
+Sensor 1: 63.84 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 48.67 °C 
+
+Sensor 1: 64.23 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 84.42 °C 
+Sensor 4: 48.67 °C 
+
+Sensor 1: 65.01 °C 
+Sensor 2: 13.14 °C 
+Sensor 3: 84.42 °C 
+Sensor 4: 48.54 °C 
+
+Sensor 1: 63.84 °C 
+Sensor 2: 13.14 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 48.41 °C 
+
+Sensor 1: 63.84 °C 
+Sensor 2: 13.23 °C 
+Sensor 3: 84.07 °C 
+Sensor 4: 48.28 °C 
+
+Sensor 1: 63.65 °C 
+Sensor 2: 13.23 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 48.28 °C 
+
+Sensor 1: 63.65 °C 
+Sensor 2: 13.23 °C 
+Sensor 3: 83.38 °C 
+Sensor 4: 48.41 °C 
+
+Sensor 1: 63.84 °C 
+Sensor 2: 13.23 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 48.54 °C 
+
+Sensor 1: 63.27 °C 
+Sensor 2: 13.23 °C 
+Sensor 3: 82.71 °C 
+Sensor 4: 48.80 °C 
+
+Sensor 1: 64.23 °C 
+Sensor 2: 13.14 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 48.80 °C 
+
+Sensor 1: 64.03 °C 
+Sensor 2: 13.14 °C 
+Sensor 3: 80.45 °C 
+Sensor 4: 49.06 °C 
+
+Sensor 1: 63.84 °C 
+Sensor 2: 13.14 °C 
+Sensor 3: 82.05 °C 
+Sensor 4: 49.19 °C 
+
+Sensor 1: 63.27 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 83.73 °C 
+Sensor 4: 49.45 °C 
+
+Sensor 1: 63.65 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 81.40 °C 
+Sensor 4: 49.58 °C 
+
+Sensor 1: 63.46 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 82.38 °C 
+Sensor 4: 49.71 °C 
+
+Sensor 1: 63.27 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 81.72 °C 
+Sensor 4: 49.71 °C 
+
+Sensor 1: 63.65 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 83.04 °C 
+Sensor 4: 49.98 °C 
+
+Sensor 1: 63.65 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 84.07 °C 
+Sensor 4: 50.11 °C 
+
+Sensor 1: 63.46 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 84.07 °C 
+Sensor 4: 50.11 °C 
+
+Sensor 1: 63.27 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 83.38 °C 
+Sensor 4: 50.38 °C 
+
+Sensor 1: 63.27 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 84.07 °C 
+Sensor 4: 50.38 °C 
+
+Sensor 1: 63.09 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 83.73 °C 
+Sensor 4: 50.51 °C 
+
+Sensor 1: 63.27 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 55.67 °C 
+Sensor 4: 49.19 °C 
+
+Sensor 1: 50.92 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 53.15 °C 
+Sensor 4: 49.06 °C 
+
+Sensor 1: 50.38 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 52.30 °C 
+Sensor 4: 48.93 °C 
+
+Sensor 1: 49.98 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 51.74 °C 
+Sensor 4: 48.80 °C 
+
+Sensor 1: 49.84 °C 
+Sensor 2: 12.96 °C 
+Sensor 3: 51.33 °C 
+Sensor 4: 48.54 °C 
+
+Sensor 1: 49.71 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 51.19 °C 
+Sensor 4: 48.28 °C 
+
+Sensor 1: 49.58 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 50.64 °C 
+Sensor 4: 48.03 °C 
+
+Sensor 1: 49.58 °C 
+Sensor 2: 13.05 °C 
+Sensor 3: 50.51 °C 
+Sensor 4: 47.77 °C 
+
+Sensor 1: 49.45 °C 
+Sensor 2: 13.14 °C 
+Sensor 3: 50.38 °C 
+Sensor 4: 47.52 °C 
+
+Sensor 1: 49.45 °C 
+Sensor 2: 13.14 °C 
+Sensor 3: 50.24 °C 
+Sensor 4: 47.27 °C 
+
+Sensor 1: 49.06 °C 
+Sensor 2: 13.14 °C 
+Sensor 3: 49.98 °C 
+Sensor 4: 47.15 °C 
+
+Sensor 1: 49.19 °C 
+Sensor 2: 13.23 °C 
+Sensor 3: 49.84 °C 
+Sensor 4: 46.90 °C 
+
+Sensor 1: 48.93 °C 
+Sensor 2: 13.23 °C 
+Sensor 3: 49.71 °C 
+Sensor 4: 46.78 °C 
+
+Sensor 1: 48.80 °C 
+Sensor 2: 13.32 °C 
+Sensor 3: 49.45 °C 
+Sensor 4: 46.90 °C 
+
+Sensor 1: 49.58 °C 
+Sensor 2: 13.32 °C 
+Sensor 3: 49.45 °C 
+Sensor 4: 46.65 °C 
+
+Sensor 1: 49.32 °C 
+Sensor 2: 13.41 °C 
+Sensor 3: 49.19 °C 
+Sensor 4: 46.41 °C 
+
+Sensor 1: 49.32 °C 
+Sensor 2: 13.49 °C 
+Sensor 3: 49.06 °C 
+Sensor 4: 46.28 °C 
+
+Sensor 1: 49.19 °C 
+Sensor 2: 13.49 °C 
+Sensor 3: 48.93 °C 
+Sensor 4: 46.04 °C 
+
+Sensor 1: 48.93 °C 
+Sensor 2: 13.58 °C 
+Sensor 3: 48.80 °C 
+Sensor 4: 45.92 °C 
+
+Sensor 1: 48.93 °C 
+Sensor 2: 13.58 °C 
+Sensor 3: 48.67 °C 
+Sensor 4: 45.68 °C 
+
+Sensor 1: 48.93 °C 
+Sensor 2: 13.58 °C 
+Sensor 3: 48.80 °C 
+Sensor 4: 45.56 °C 
+
+Sensor 1: 48.67 °C 
+Sensor 2: 13.67 °C 
+Sensor 3: 48.54 °C 
+Sensor 4: 45.32 °C 
+
+Sensor 1: 48.67 °C 
+Sensor 2: 13.76 °C 
+Sensor 3: 48.54 °C 
